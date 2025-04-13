@@ -1,6 +1,6 @@
 # 📝 ToDoList – A Dynamic Task Management App Built with React
 
-![ToDoList Preview](./sample.png)
+![ToDoList Preview](./sample_image/todo.png)
 
 ## 🌟 Overview
 
@@ -42,10 +42,3 @@ The application can serve as a building block for larger productivity tools like
 
 ---
 
-## 📷 Screenshot
-
-> Be sure to replace the placeholder image with your own actual screenshot or UI preview!
-
-```bash
-Place your screenshot here:
-./sample_image/todo.png
